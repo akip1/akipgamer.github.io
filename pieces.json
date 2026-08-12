@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Pawn",
+        "piece_number": 6,
+        "tier": "1",
+        "tags": ["Promotable"]
+    },
+    {
+        "name": "Knight",
+        "piece_number": 5,
+        "tier": "2",
+        "tags": ["Horse", "Jumping", "Promotable To"]
+    }
+]
